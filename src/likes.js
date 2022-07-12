@@ -12,6 +12,8 @@ console.log(props);
   );
 };
 
+
+
 function mapStateToProps(state){
   console.log('mapStateToProps' , state);
 return{
